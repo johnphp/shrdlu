@@ -1,3 +1,3 @@
 
-print "http://github.com/johnphp"
+print "http://github.com/johnphp/shrdlu"
 
